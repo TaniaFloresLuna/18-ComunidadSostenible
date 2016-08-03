@@ -1,0 +1,120 @@
+hr{
+	width: 1%;
+	height: 5%;
+	margin: 1%;
+	display: inline;
+}
+li{
+	display: inline-block;
+	margin: 1% ;
+	color: gray;
+}
+ul{
+	padding: 3% 20%;
+	font-size: 13px;
+}
+.chico{
+	height: 150%;
+	width: 150%;
+}
+.grande{
+	height: 500px;
+	width: 1500px;
+	margin-left: -25%;
+}
+.fondo{
+	background-image: url(../img/fondo2.jpg);
+	width: 1505px;
+	height: 200px;
+	margin-top: -2%;
+	margin-left: -25%;
+}
+.principal{
+	margin: 5% 10%;
+}
+.icono{
+	width: 45%;
+	height: 45%;
+	display: inline-block;
+	margin: 10% 25%;
+	padding: 0 10%;
+}
+.texto{
+	margin: 5%;
+	color: gray;
+}
+.mitad{
+	margin-left: -55%;
+	width: 750px;
+	height: 300px;
+	display: block;
+}
+.segundo{
+	background-image: url(../img/fondo.jpg);
+	background-size: 100%;
+	width: 800px;
+	height: 300px;
+	display: block;
+	position: absolute;
+	margin-left: 50%;
+}
+.small{
+	margin-left: 45%;
+	margin-top: 5%;
+}
+.centro{
+	margin: 5% 3%;
+	padding: 4% 7%;
+}
+.iconos{
+	margin-left: 25%;
+}
+.verde{
+	background-color: #356600;
+	width: 1500px;
+	height: 800px;
+	margin-left: -25%;
+}
+.mediano{
+	width: 60%;
+	height: 60%;
+	margin-left: 10%;
+}
+.redondo{
+	border-radius: 100%;
+	width: 50%;
+	height: 50%;
+	margin-left: 25%;
+}
+.mini-social{
+	width: 45%;
+	height: 45%;
+	margin-left: 15%;
+}
+.cinta{
+	width: 40%;
+	height: 40%;
+	margin-left: 25%;
+}
+.fondos{
+	background-image: url(../img/fondo2.jpg);
+	width: 1505px;
+	height: 500px;
+	margin-left: -25%;
+}
+.flecha{
+	width: 35%;
+	height: 35%;
+	margin-left: 10%;
+	padding-left: 5%;
+}
+.margen{
+	border:1% solid white;
+	margin: 3%;
+	padding: 2%;
+}
+.social{
+	width: 15%;
+	height: 15%;
+	display: block;
+}
